@@ -1,3 +1,8 @@
+
+This is a react based web app that shows garbage prone areas on the map and user can add pictures of garbage thrown in public areas by clicking on the map and tagging the picture on the map.
+
+
+
 # Getting Started with Create React App
           
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
